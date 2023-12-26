@@ -3,7 +3,7 @@
     "surveys": [
         {
             "surveyId": "1",
-            "surveyCategory": "Welcome to Flex",
+            "surveyCategory": "Welcome to Uwazi",
             "surveyPaid": false,
             "surveyAmount": 70,
             "surveyQuestions": [
@@ -27,7 +27,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Flex allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+                    "surveyQuestion": "Uwazi allows you to earn money from every survey. You will receive your payment when you submit your survey.",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
