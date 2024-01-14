@@ -978,17 +978,13 @@
           "surveyType": 1,
           "surveyAnswers": [
             "Toyota",
-            "Ford",
             "Honda",
-            "Chevrolet",
             "BMW",
             "Mercedes-Benz",
             "Audi",
-            "Volkswagen",
-            "Tesla",
+            "VW",
             "Subaru",
-            "Nissan",
-            "Hyundai"
+            "Nissan"
           ]
         },
         {
